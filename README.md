@@ -35,8 +35,8 @@ This repository is a compilation of solved challenges from platforms such as **H
 ### 3. [Portfolio Website with Django](https://github.com/Ed-Ibarra/portfolio-website)
 I'm developing a website using **Django**, which will serve as my professional portfolio. In it I will show my resume interactively, as well as my outstanding projects in different technologies. This page will serve as a central platform for employers or potential collaborators to learn more about me and my work.
 
-- **Technologies**: Django (más por venir)
-- **Goal**: Crear un portafolio digital que presente mi experiencia y proyectos de una manera atractiva y profesional.
+- **Technologies**: Django & Tailwind CSS
+- **Goal**: Create a digital portfolio that shows my experience and projects in an attractive and professional way.
 - **Content**: Curriculum information, featured projects, contact.
 
 ---
@@ -53,6 +53,8 @@ I'm developing a website using **Django**, which will serve as my professional p
 ## 📜 Certifications
 
 - ### [Python Django](https://www.udemy.com/certificate/UC-75a7a10c-ed3e-469d-b4d8-5a665571996d/)
+<a href="https://www.udemy.com/certificate/UC-75a7a10c-ed3e-469d-b4d8-5a665571996d/"><img src="https://img-c.udemycdn.com/course/240x135/4015616_32a9_2.jpg" style="height: 60%; width:60%;"/></a>
+
 - ### [The Complete Python Bootcamp](https://www.udemy.com/certificate/UC-567cbd70-fa6c-4f8f-9b91-fc87663af665/)
 - ### [ISTQB® Foundation Level](https://www.udemy.com/certificate/UC-635d684f-d90a-41f7-a5e0-5899bedaa762/)
 - ### [CSS Beginner to Expert Course](https://www.udemy.com/certificate/UC-a898f871-3bf9-4a9d-adcd-e2433c794280/)
@@ -63,7 +65,7 @@ I'm developing a website using **Django**, which will serve as my professional p
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - **Email**: [ibarra.estrada.94@gmail.com](mailto:ibarra.estrada.94@gmail.com)
 - **LinkedIn**: [Edgar Ibarra](https://www.linkedin.com/in/edgar-ibarra-estrada-98b81016b/)
