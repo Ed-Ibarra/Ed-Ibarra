@@ -5,7 +5,6 @@ I'm a **Software and QA Automation Engineer** with experience in automated testi
 Recently, I'm building this portfolio that show my most relevant projects in test automation, Python and Web development. Don't hesitate to explore my work!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/edgar-ibarra-estrada-98b81016b/)
-[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/Ed-Ibarra)
 
 ---
 
