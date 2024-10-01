@@ -32,7 +32,7 @@ This repository is a compilation of solved challenges from platforms such as **H
 
 ---
 
-### 3. [Portfolio Website with Django](https://github.com/Ed-Ibarra/portfolio-website)
+### 3. [Portfolio](https://github.com/Ed-Ibarra/portfolio)
 I'm developing a website using **Django**, which will serve as my professional portfolio. In it I will show my resume interactively, as well as my outstanding projects in different technologies. This page will serve as a central platform for employers or potential collaborators to learn more about me and my work.
 
 - **Technologies**: Django & Tailwind CSS
