@@ -1,4 +1,4 @@
-# ¡Hi, I'm Edgar Ibarra Estrada! 👋
+# Hi, I'm Edgar Ibarra Estrada! 👋
 
 I'm a **Software and QA Automation Engineer** with experience in automated testing and application development using tools such as **Selenium**, **Python**, and **Django**. My goal is to design quality solutions that drive efficiency and improve the UX.
 
