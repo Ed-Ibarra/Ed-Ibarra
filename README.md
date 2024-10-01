@@ -53,7 +53,7 @@ I'm developing a website using **Django**, which will serve as my professional p
 ## 📜 Certifications
 
 - ### [Python Django](https://www.udemy.com/certificate/UC-75a7a10c-ed3e-469d-b4d8-5a665571996d/)
-<a href="https://www.udemy.com/certificate/UC-75a7a10c-ed3e-469d-b4d8-5a665571996d/"><img src="https://img-c.udemycdn.com/course/240x135/4015616_32a9_2.jpg"/></a>
+<a href="https://www.udemy.com/certificate/UC-75a7a10c-ed3e-469d-b4d8-5a665571996d/" target="_blank"><img src="https://img-c.udemycdn.com/course/240x135/4015616_32a9_2.jpg"/></a>
 
 - ### [The Complete Python Bootcamp](https://www.udemy.com/certificate/UC-567cbd70-fa6c-4f8f-9b91-fc87663af665/)
 - ### [ISTQB® Foundation Level](https://www.udemy.com/certificate/UC-635d684f-d90a-41f7-a5e0-5899bedaa762/)
