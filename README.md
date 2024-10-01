@@ -59,11 +59,19 @@ I'm developing a website using **Django**, which will serve as my professional p
 <a href="https://www.udemy.com/certificate/UC-567cbd70-fa6c-4f8f-9b91-fc87663af665/"><img src="https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg"/></a>
 
 - ### [ISTQB® Foundation Level](https://www.udemy.com/certificate/UC-635d684f-d90a-41f7-a5e0-5899bedaa762/)
-- ### [CSS Beginner to Expert Course](https://www.udemy.com/certificate/UC-a898f871-3bf9-4a9d-adcd-e2433c794280/)
-- ### [Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL](https://www.udemy.com/certificate/UC-ab2f240f-00d5-423f-b5f9-7e82f9e767d0/)
-- ### [JavaScript Basics for Beginners](https://www.udemy.com/certificate/UC-d8046044-7bdb-4a09-8765-2bf37f08f4f1/)
-- ### [Relational Database Design](https://www.udemy.com/certificate/UC-ac2c27e3-2991-4f93-8e61-a03887ad2503/)
+<a href="https://www.udemy.com/certificate/UC-635d684f-d90a-41f7-a5e0-5899bedaa762/"><img src="https://img-c.udemycdn.com/course/240x135/269394_8054_9.jpg"/></a>
 
+- ### [CSS Beginner to Expert Course](https://www.udemy.com/certificate/UC-a898f871-3bf9-4a9d-adcd-e2433c794280/)
+<a href="https://www.udemy.com/certificate/UC-a898f871-3bf9-4a9d-adcd-e2433c794280/"><img src="https://img-c.udemycdn.com/course/240x135/1975720_7374.jpg"/></a>
+
+- ### [Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL](https://www.udemy.com/certificate/UC-ab2f240f-00d5-423f-b5f9-7e82f9e767d0/)
+<a href="https://www.udemy.com/certificate/UC-ab2f240f-00d5-423f-b5f9-7e82f9e767d0/"><img src="https://img-c.udemycdn.com/course/240x135/980450_7fc0_4.jpg"/></a>
+
+- ### [JavaScript Basics for Beginners](https://www.udemy.com/certificate/UC-d8046044-7bdb-4a09-8765-2bf37f08f4f1/)
+<a href="https://www.udemy.com/certificate/UC-d8046044-7bdb-4a09-8765-2bf37f08f4f1/"><img src="https://img-c.udemycdn.com/course/240x135/1743420_0062.jpg"/></a>
+
+- ### [Relational Database Design](https://www.udemy.com/certificate/UC-ac2c27e3-2991-4f93-8e61-a03887ad2503/)
+<a href="https://www.udemy.com/certificate/UC-ac2c27e3-2991-4f93-8e61-a03887ad2503/"><img src="https://img-c.udemycdn.com/course/240x135/299398_1a2c_2.jpg"/></a>
 
 ---
 
