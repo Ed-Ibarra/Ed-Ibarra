@@ -20,7 +20,6 @@ Test automation for the [SauceDemo](https://www.saucedemo.com) website, where I'
 ---
 
 ### 2. [Programming challenges](https://github.com/Ed-Ibarra/programming-challenges)
-This repository includes several programming challenges that I have solved to improve my skills in **Python**. The problems range from basic algorithms to more advanced topics such as data structures and object-oriented programming.
 
 This repository is a compilation of solved challenges from platforms such as **HackerRank** and **LeetCode**, covering multiple technologies such as **Python**, **SQL**, **JavaScript**, and data structure algorithms. It's an excellent showcase of my problem-solving skills in varied environments.
 
